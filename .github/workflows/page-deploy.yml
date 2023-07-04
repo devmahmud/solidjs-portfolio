@@ -19,7 +19,7 @@ jobs:
       - name: Install dependencites 🔧
         run: |
           npm install -g pnpm
-          pnpm install
+          pnpm install --no-frozen-lockfile
 
       - name: Run tests 🧪
         run: pnpm test
@@ -40,7 +40,7 @@ jobs:
       - name: Install and Build 🔧
         run: |
           npm install -g pnpm
-          pnpm install
+          pnpm install --no-frozen-lockfile
           NODE_ENV=production pnpm build
           touch dist/public/.nojekyll
           cp dist/public/index.html dist/public/404.html
