@@ -1,0 +1,62 @@
+name: GH Pages Deploy
+on:
+  push:
+    branches:
+      - main
+jobs:
+  tests:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout 🛎️
+        uses: actions/checkout@v2.3.1 # If you're using actions/checkout@v2 you must set persist-credentials to false in most cases for the deployment to work correctly.
+        with:
+          persist-credentials: false
+
+      - uses: actions/setup-node@v3
+        with:
+          node-version: 18
+
+      - name: Install dependencites 🔧
+        run: |
+          npm install -g pnpm
+          pnpm install
+          pnpm test
+
+      - name: Run tests 🧪
+        run: pnpm test
+
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    needs: tests
+    steps:
+      - name: Checkout 🛎️
+        uses: actions/checkout@v2.3.1 # If you're using actions/checkout@v2 you must set persist-credentials to false in most cases for the deployment to work correctly.
+        with:
+          persist-credentials: false
+
+      - uses: actions/setup-node@v3
+        with:
+          node-version: 18
+
+      - name: Install and Build 🔧
+        run: |
+          npm install -g pnpm
+          pnpm install
+          NODE_ENV=production pnpm build
+          touch dist/public/.nojekyll
+          cp dist/public/index.html dist/public/404.html
+
+      - name: Cache build 📦
+        uses: actions/cache@v2
+        with:
+          path: ${{ github.workspace }}/node_modules
+          key: ${{ runner.os }}-solid-start-${{ hashFiles('**/pnpm-lock.yaml') }}
+
+      - name: Deploy 🚀
+        uses: JamesIves/github-pages-deploy-action@3.5.7
+        with:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          BRANCH: gh-pages
+          FOLDER: dist/public
+        env:
+          ACTIONS_ALLOW_UNSECURE_COMMANDS: "true"
