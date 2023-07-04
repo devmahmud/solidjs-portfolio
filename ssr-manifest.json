@@ -2,7 +2,7 @@
   "\u0000virtual:config": [
   ],
   "\u0000virtual:github": [
-    "/assets/formatters-496f3948.js"
+    "/assets/formatters-4eba5204.js"
   ],
   "\u0000virtual:posts": [
     "/assets/index-aefa1402.js"
@@ -111,7 +111,7 @@
   "node_modules/.pnpm/solid-js@1.7.7/node_modules/solid-js/web/dist/web.js": [
   ],
   "node_modules/.pnpm/solid-markdown@1.2.2_solid-js@1.7.7/node_modules/solid-markdown/dist/index.browser.jsx": [
-    "/assets/index.browser-93759c04.js"
+    "/assets/index.browser-3b56d5e6.js"
   ],
   "node_modules/.pnpm/solid-start@0.2.26_@solidjs+meta@0.28.5_@solidjs+router@0.8.2_solid-js@1.7.7_solid-start-node@0.2.26_vite@4.3.9/node_modules/solid-start/entry-client/StartClient.tsx": [
   ],
@@ -138,12 +138,12 @@
   "src/components/Logo.tsx": [
   ],
   "src/components/Markdown.tsx": [
-    "/assets/_slug_-0c9d9fa2.js"
+    "/assets/_slug_-af9b23b5.js"
   ],
   "src/components/Navbar.tsx": [
   ],
   "src/components/NotFound.tsx": [
-    "/assets/NotFound-d6b99634.js"
+    "/assets/NotFound-43bb44a1.js"
   ],
   "src/components/icons.tsx": [
   ],
@@ -156,21 +156,21 @@
   "src/root.tsx": [
   ],
   "src/routes/[...404].tsx": [
-    "/assets/_...404_-8ff4006d.js"
+    "/assets/_...404_-af4988c1.js"
   ],
   "src/routes/blog/[slug].tsx": [
-    "/assets/_slug_-0c9d9fa2.js"
+    "/assets/_slug_-af9b23b5.js"
   ],
   "src/routes/blog/index.tsx": [
-    "/assets/index-38674d60.js"
+    "/assets/index-5a7bda09.js"
   ],
   "src/routes/index.tsx": [
-    "/assets/index-4f7f0412.js"
+    "/assets/index-2441d58e.js"
   ],
   "src/routes/resume.tsx": [
-    "/assets/resume-130f4df3.js"
+    "/assets/resume-844ec580.js"
   ],
   "src/utils/formatters.ts": [
-    "/assets/formatters-496f3948.js"
+    "/assets/formatters-4eba5204.js"
   ]
 }
