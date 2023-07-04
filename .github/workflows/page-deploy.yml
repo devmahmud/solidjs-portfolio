@@ -52,10 +52,9 @@ jobs:
           key: ${{ runner.os }}-solid-start-${{ hashFiles('**/pnpm-lock.yaml') }}
 
       - name: Deploy 🚀
-        uses: JamesIves/github-pages-deploy-action@3.5.7
+        uses: JamesIves/github-pages-deploy-action@4.1.0
         with:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          BRANCH: gh-pages
-          FOLDER: dist/public
+          branch: gh-pages
+          folder: dist/public
         env:
           ACTIONS_ALLOW_UNSECURE_COMMANDS: "true"
