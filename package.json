@@ -6,7 +6,7 @@
     "dev": "solid-start dev",
     "build": "solid-start build",
     "start": "solid-start start",
-    "test": "vitest",
+    "test": "vitest run",
     "serve": "solid-start preview",
     "fmt": "prettier -w .",
     "lint": "eslint src/**/* --ext .ts,.tsx --fix",
