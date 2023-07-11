@@ -18,82 +18,92 @@ links:
   twitter: "https://twitter.com/expelmahmud"
 
 cover_letter: >-
-  Hello, my name is **Mahmudul Alam**, and I build software for the web **for more than 10 years**.
-
-  Most of my experiences come from building frontend-heavy apps, extensively working with **Typescript/JavaScript**, **Node.js**, and **React**. But in my career, I used many different hats, so I also have experience working as a **Backend Engineer**, and **Cloud Engineer**, creating high availability services in great companies, *including [Amazon](https://amazon.com)*.
-
-  Nowadays, I spend my free time building new careers at *[PodCodar](https://podcodar.com)*, a technology education community focused on training professionals.
-
-  *Thanks* for visiting my resume, and I hope we have a chance to connect! 😁
+  My name is Mahmudul Alam and I'm a software developer. I'm from Bangladesh, living in Dhaka and currently working as a Full-time Software Engineer at Tero Labs. You can find me on [Twitter](https://twitter.com/expelmahmud), or on [LinkedIn](https://www.linkedin.com/in/devmahmud).
 
 relevant_experiences:
-  - company: Paradigm
-    job_title: Sr Software Development Engineer
-    location: New York - remote from Brazil
-    dates_employed: Jan 2021 – present
+  - company: Leveor
+    job_title: Founding Engineer
+    location: Dhaka, Bangladesh (Hybrid)
+    dates_employed: Jul 2021 – present
     tech_stack:
       [
         react,
         react-native,
-        electron,
+        Next.js,
+        Web3.js,
+        TypeScript,
+        Python,
+        JavaScript,
         redux,
         redux-toolkit,
-        redux-saga,
-        django,
-        golang,
         docker,
-        redis,
       ]
     description: >
-      Paradigm automates bilateral price negotiation and settlement workflows for institutional digital asset traders.
+      Building User Interfaces using React.js, Next.js, Typescript. Integrating smart contracts with frontend UI.
+      Integrating Rest APIs with frontend UI. Developing REST APIs with Django REST Framework & Express.
+      Real-time Voice & Video chat with Socket & WebRTC
 
-  - company: Amazon
-    job_title: Software Development Engineer II
-    location: São Paulo - Brazil
-    dates_employed: Oct 2019 – Mar 2021
+  - company: Universal Machine
+    job_title: Software Engineer
+    location: Santa clara, California, United States (Remote)
+    dates_employed: Sep 2021 – Present
     tech_stack:
       [
-        aws,
         react,
+        react-native,
+        Next.js,
+        Web3.js,
+        TypeScript,
+        Python,
+        JavaScript,
         redux,
-        redux-saga,
-        kotlin,
-        lambda,
-        dynamodb,
-        python,
+        redux-toolkit,
         docker,
-        elk,
-        redis,
+        Graphql,
+        Expo,
       ]
     description: >
-      Our mission is to be Earth’s most customer-centric company.
-      This is what unites Amazonians across teams and geographies as we are all striving to delight our customers and make their lives easier, one innovative product, service, and idea at a time.
+      Building User Interfaces using React.js, Next.js, Typescript. Working on Smart Contract & Frontend Integrations. 
+      Working on REST API Integrations. Building cross-platform native apps using React Native.
+      Working on BLE, NFC, & QR CODE
 
-  - company: Inkitt
-    job_title: Tech Lead - Software Engineer
-    location: Berlin - Germany
-    dates_employed: Nov 2017 – Jun 2018
+  - company: Heavytask LLC
+    job_title: Software Engineer
+    location: Dhaka, Bangladesh
+    dates_employed: Feb 2020 – Jan 2023
     tech_stack:
-      [react, react-native, redux, redux-thunk, ruby-on-rails, docker, redis]
+      [
+        Next.js,
+        Redux.js,
+        TypeScript,
+        React JS,
+        JavaScript,
+        Bootstrap,
+        React.js,
+        Redux,
+      ]
     description: >
-      Inkitt it's a Publisher company which aims to connect authors and readers and, based on that interaction, predicted which books have the potential to become Best Sellers
+      Initiated & bootstrapped a maintainable & scalable codebase for a global CRM project.  Designed & developed component specifications based on the Product Requirement Document received from the client.
+      Led the planning of reusability design of each component to meet the design requirement. Developed design-critical components to implement drag-and-drop Kanban board, smooth Digital Signature pad, complex reporting analytics dashboard, complicated 1:1 PDF generation web interface for Invoicing module, etc.
+      Implemented required data model functionalities for every component & feature module. Test, streamline & scale each component development to enhance Customer Experience.
+      Enforce best practices in version control & code reusability
 
 education:
-  - institution: Amazon Web Services
-    field_of_study: Cloud Practitioner Certificate
-    period: 2019
-  - institution: Universidade Federal de Minas Gerais
-    field_of_study: Matemática Computacional
-    period: 2012 – 2017
-  - institution: Centro Federal de Educação Tecnológica de Minas Gerais
-    field_of_study: Tecnologia da Informação
-    period: 2009 – 2011
+  - institution: Daffodil International University
+    field_of_study: Computer Science and Engineering
+    period: 2015-2019
+  - institution: New Govt. Degree College, Rajshahi
+    field_of_study: Higher Secondary School Certificate
+    period: 2012 – 2014
+  - institution: Naogaon K.D Govt. High School
+    field_of_study: Secondary School Certificate
+    period: 2011 – 2012
 
 certificates:
-  - title: AWS Certified Cloud Practitioner
-    issuing_authority: Amazon Web Services (AWS)
-    period: Oct 2020 - Oct 2023
-    credential_url: https://www.youracclaim.com/badges/3e20fa2f-07c9-40aa-b486-9fbdaaef40fb?source=linked_in_profile
+  - title: Twilio Video - Create Zoom Clone Video Conference AppTwilio Video - Create Zoom Clone Video Conference App
+    issuing_authority: Udemy
+    period: Nov 2021
+    credential_url: https://www.udemy.com/certificate/UC-ef4d79a3-eb10-476c-93bd-de19faac2aa3/
 
 skills:
   Programming Languages:
