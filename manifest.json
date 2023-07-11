@@ -14,18 +14,18 @@
       "src/routes/blog/[slug].tsx",
       "src/routes/blog/index.tsx"
     ],
-    "file": "assets/index-281e91d0.js",
+    "file": "assets/index-cf0dea74.js",
     "isEntry": true,
     "src": ".solid/index.html"
   },
-  "_NotFound-43bb44a1.js": {
-    "file": "assets/NotFound-43bb44a1.js",
+  "_NotFound-e8801015.js": {
+    "file": "assets/NotFound-e8801015.js",
     "imports": [
       ".solid/index.html"
     ]
   },
-  "_formatters-4eba5204.js": {
-    "file": "assets/formatters-4eba5204.js",
+  "_formatters-ef8089b6.js": {
+    "file": "assets/formatters-ef8089b6.js",
     "imports": [
       ".solid/index.html"
     ]
@@ -33,34 +33,34 @@
   "_index-aefa1402.js": {
     "file": "assets/index-aefa1402.js"
   },
-  "_index.browser-3b56d5e6.js": {
-    "file": "assets/index.browser-3b56d5e6.js",
+  "_index.browser-60e2a9e0.js": {
+    "file": "assets/index.browser-60e2a9e0.js",
     "imports": [
       ".solid/index.html"
     ]
   },
   "src/routes/[...404].tsx": {
-    "file": "assets/_...404_-af4988c1.js",
+    "file": "assets/_...404_-b4d320f9.js",
     "imports": [
       ".solid/index.html",
-      "_NotFound-43bb44a1.js"
+      "_NotFound-e8801015.js"
     ],
     "isDynamicEntry": true,
     "src": "src/routes/[...404].tsx"
   },
   "src/routes/blog/[slug].tsx": {
-    "file": "assets/_slug_-af9b23b5.js",
+    "file": "assets/_slug_-af5e6570.js",
     "imports": [
       ".solid/index.html",
       "_index-aefa1402.js",
-      "_NotFound-43bb44a1.js",
-      "_index.browser-3b56d5e6.js"
+      "_NotFound-e8801015.js",
+      "_index.browser-60e2a9e0.js"
     ],
     "isDynamicEntry": true,
     "src": "src/routes/blog/[slug].tsx"
   },
   "src/routes/blog/index.tsx": {
-    "file": "assets/index-5a7bda09.js",
+    "file": "assets/index-ac579901.js",
     "imports": [
       ".solid/index.html",
       "_index-aefa1402.js"
@@ -69,20 +69,20 @@
     "src": "src/routes/blog/index.tsx"
   },
   "src/routes/index.tsx": {
-    "file": "assets/index-2441d58e.js",
+    "file": "assets/index-d8ccd33a.js",
     "imports": [
       ".solid/index.html",
-      "_formatters-4eba5204.js"
+      "_formatters-ef8089b6.js"
     ],
     "isDynamicEntry": true,
     "src": "src/routes/index.tsx"
   },
   "src/routes/resume.tsx": {
-    "file": "assets/resume-844ec580.js",
+    "file": "assets/resume-e5d6822b.js",
     "imports": [
       ".solid/index.html",
-      "_index.browser-3b56d5e6.js",
-      "_formatters-4eba5204.js"
+      "_index.browser-60e2a9e0.js",
+      "_formatters-ef8089b6.js"
     ],
     "isDynamicEntry": true,
     "src": "src/routes/resume.tsx"

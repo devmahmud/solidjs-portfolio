@@ -2,11 +2,11 @@
   "/*404": [
     {
       "type": "script",
-      "href": "/assets/_...404_-af4988c1.js"
+      "href": "/assets/_...404_-b4d320f9.js"
     },
     {
       "type": "script",
-      "href": "/assets/index-281e91d0.js"
+      "href": "/assets/index-cf0dea74.js"
     },
     {
       "type": "style",
@@ -14,17 +14,17 @@
     },
     {
       "type": "script",
-      "href": "/assets/NotFound-43bb44a1.js"
+      "href": "/assets/NotFound-e8801015.js"
     }
   ],
   "/blog/:slug": [
     {
       "type": "script",
-      "href": "/assets/_slug_-af9b23b5.js"
+      "href": "/assets/_slug_-af5e6570.js"
     },
     {
       "type": "script",
-      "href": "/assets/index-281e91d0.js"
+      "href": "/assets/index-cf0dea74.js"
     },
     {
       "type": "style",
@@ -36,21 +36,21 @@
     },
     {
       "type": "script",
-      "href": "/assets/NotFound-43bb44a1.js"
+      "href": "/assets/NotFound-e8801015.js"
     },
     {
       "type": "script",
-      "href": "/assets/index.browser-3b56d5e6.js"
+      "href": "/assets/index.browser-60e2a9e0.js"
     }
   ],
   "/blog/": [
     {
       "type": "script",
-      "href": "/assets/index-5a7bda09.js"
+      "href": "/assets/index-ac579901.js"
     },
     {
       "type": "script",
-      "href": "/assets/index-281e91d0.js"
+      "href": "/assets/index-cf0dea74.js"
     },
     {
       "type": "style",
@@ -64,11 +64,11 @@
   "/": [
     {
       "type": "script",
-      "href": "/assets/index-2441d58e.js"
+      "href": "/assets/index-d8ccd33a.js"
     },
     {
       "type": "script",
-      "href": "/assets/index-281e91d0.js"
+      "href": "/assets/index-cf0dea74.js"
     },
     {
       "type": "style",
@@ -76,17 +76,17 @@
     },
     {
       "type": "script",
-      "href": "/assets/formatters-4eba5204.js"
+      "href": "/assets/formatters-ef8089b6.js"
     }
   ],
   "/resume": [
     {
       "type": "script",
-      "href": "/assets/resume-844ec580.js"
+      "href": "/assets/resume-e5d6822b.js"
     },
     {
       "type": "script",
-      "href": "/assets/index-281e91d0.js"
+      "href": "/assets/index-cf0dea74.js"
     },
     {
       "type": "style",
@@ -94,18 +94,18 @@
     },
     {
       "type": "script",
-      "href": "/assets/index.browser-3b56d5e6.js"
+      "href": "/assets/index.browser-60e2a9e0.js"
     },
     {
       "type": "script",
-      "href": "/assets/formatters-4eba5204.js"
+      "href": "/assets/formatters-ef8089b6.js"
     }
   ],
   "entry-client": [],
   "index.html": [
     {
       "type": "script",
-      "href": "/assets/index-281e91d0.js"
+      "href": "/assets/index-cf0dea74.js"
     },
     {
       "type": "style",
