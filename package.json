@@ -1,7 +1,7 @@
 {
   "name": "solidjs-portfolio",
   "description": "Personal portfolio",
-  "homepage": "https://mahmudul.dev/",
+  "homepage": "https://devmahmud.github.io/solidjs-portfolio/",
   "scripts": {
     "dev": "solid-start dev",
     "build": "solid-start build",
