@@ -2,10 +2,10 @@
   "\u0000virtual:config": [
   ],
   "\u0000virtual:github": [
-    "/assets/formatters-53961027.js"
+    "/solidjs-portfolio/assets/formatters-cd066e53.js"
   ],
   "\u0000virtual:posts": [
-    "/assets/index-aefa1402.js"
+    "/solidjs-portfolio/assets/index-aefa1402.js"
   ],
   "\u0000vite/modulepreload-polyfill": [
   ],
@@ -14,7 +14,7 @@
   ".solid/index.html": [
   ],
   "node_modules/.pnpm/@babel+runtime@7.22.5/node_modules/@babel/runtime/helpers/esm/typeof.js": [
-    "/assets/index-aefa1402.js"
+    "/solidjs-portfolio/assets/index-aefa1402.js"
   ],
   "node_modules/.pnpm/@solidjs+meta@0.28.5_solid-js@1.7.7/node_modules/@solidjs/meta/dist/index.jsx": [
   ],
@@ -29,89 +29,89 @@
   "node_modules/.pnpm/@solidjs+router@0.8.2_solid-js@1.7.7/node_modules/@solidjs/router/dist/utils.js": [
   ],
   "node_modules/.pnpm/date-fns@2.30.0/node_modules/date-fns/esm/_lib/assign/index.js": [
-    "/assets/index-aefa1402.js"
+    "/solidjs-portfolio/assets/index-aefa1402.js"
   ],
   "node_modules/.pnpm/date-fns@2.30.0/node_modules/date-fns/esm/_lib/cloneObject/index.js": [
-    "/assets/index-aefa1402.js"
+    "/solidjs-portfolio/assets/index-aefa1402.js"
   ],
   "node_modules/.pnpm/date-fns@2.30.0/node_modules/date-fns/esm/_lib/defaultOptions/index.js": [
-    "/assets/index-aefa1402.js"
+    "/solidjs-portfolio/assets/index-aefa1402.js"
   ],
   "node_modules/.pnpm/date-fns@2.30.0/node_modules/date-fns/esm/_lib/getTimezoneOffsetInMilliseconds/index.js": [
-    "/assets/index-aefa1402.js"
+    "/solidjs-portfolio/assets/index-aefa1402.js"
   ],
   "node_modules/.pnpm/date-fns@2.30.0/node_modules/date-fns/esm/_lib/requiredArgs/index.js": [
-    "/assets/index-aefa1402.js"
+    "/solidjs-portfolio/assets/index-aefa1402.js"
   ],
   "node_modules/.pnpm/date-fns@2.30.0/node_modules/date-fns/esm/_lib/roundingMethods/index.js": [
-    "/assets/index-aefa1402.js"
+    "/solidjs-portfolio/assets/index-aefa1402.js"
   ],
   "node_modules/.pnpm/date-fns@2.30.0/node_modules/date-fns/esm/compareAsc/index.js": [
-    "/assets/index-aefa1402.js"
+    "/solidjs-portfolio/assets/index-aefa1402.js"
   ],
   "node_modules/.pnpm/date-fns@2.30.0/node_modules/date-fns/esm/differenceInCalendarMonths/index.js": [
-    "/assets/index-aefa1402.js"
+    "/solidjs-portfolio/assets/index-aefa1402.js"
   ],
   "node_modules/.pnpm/date-fns@2.30.0/node_modules/date-fns/esm/differenceInMilliseconds/index.js": [
-    "/assets/index-aefa1402.js"
+    "/solidjs-portfolio/assets/index-aefa1402.js"
   ],
   "node_modules/.pnpm/date-fns@2.30.0/node_modules/date-fns/esm/differenceInMonths/index.js": [
-    "/assets/index-aefa1402.js"
+    "/solidjs-portfolio/assets/index-aefa1402.js"
   ],
   "node_modules/.pnpm/date-fns@2.30.0/node_modules/date-fns/esm/differenceInSeconds/index.js": [
-    "/assets/index-aefa1402.js"
+    "/solidjs-portfolio/assets/index-aefa1402.js"
   ],
   "node_modules/.pnpm/date-fns@2.30.0/node_modules/date-fns/esm/endOfDay/index.js": [
-    "/assets/index-aefa1402.js"
+    "/solidjs-portfolio/assets/index-aefa1402.js"
   ],
   "node_modules/.pnpm/date-fns@2.30.0/node_modules/date-fns/esm/endOfMonth/index.js": [
-    "/assets/index-aefa1402.js"
+    "/solidjs-portfolio/assets/index-aefa1402.js"
   ],
   "node_modules/.pnpm/date-fns@2.30.0/node_modules/date-fns/esm/formatDistance/index.js": [
-    "/assets/index-aefa1402.js"
+    "/solidjs-portfolio/assets/index-aefa1402.js"
   ],
   "node_modules/.pnpm/date-fns@2.30.0/node_modules/date-fns/esm/isLastDayOfMonth/index.js": [
-    "/assets/index-aefa1402.js"
+    "/solidjs-portfolio/assets/index-aefa1402.js"
   ],
   "node_modules/.pnpm/date-fns@2.30.0/node_modules/date-fns/esm/locale/_lib/buildFormatLongFn/index.js": [
-    "/assets/index-aefa1402.js"
+    "/solidjs-portfolio/assets/index-aefa1402.js"
   ],
   "node_modules/.pnpm/date-fns@2.30.0/node_modules/date-fns/esm/locale/_lib/buildLocalizeFn/index.js": [
-    "/assets/index-aefa1402.js"
+    "/solidjs-portfolio/assets/index-aefa1402.js"
   ],
   "node_modules/.pnpm/date-fns@2.30.0/node_modules/date-fns/esm/locale/_lib/buildMatchFn/index.js": [
-    "/assets/index-aefa1402.js"
+    "/solidjs-portfolio/assets/index-aefa1402.js"
   ],
   "node_modules/.pnpm/date-fns@2.30.0/node_modules/date-fns/esm/locale/_lib/buildMatchPatternFn/index.js": [
-    "/assets/index-aefa1402.js"
+    "/solidjs-portfolio/assets/index-aefa1402.js"
   ],
   "node_modules/.pnpm/date-fns@2.30.0/node_modules/date-fns/esm/locale/en-US/_lib/formatDistance/index.js": [
-    "/assets/index-aefa1402.js"
+    "/solidjs-portfolio/assets/index-aefa1402.js"
   ],
   "node_modules/.pnpm/date-fns@2.30.0/node_modules/date-fns/esm/locale/en-US/_lib/formatLong/index.js": [
-    "/assets/index-aefa1402.js"
+    "/solidjs-portfolio/assets/index-aefa1402.js"
   ],
   "node_modules/.pnpm/date-fns@2.30.0/node_modules/date-fns/esm/locale/en-US/_lib/formatRelative/index.js": [
-    "/assets/index-aefa1402.js"
+    "/solidjs-portfolio/assets/index-aefa1402.js"
   ],
   "node_modules/.pnpm/date-fns@2.30.0/node_modules/date-fns/esm/locale/en-US/_lib/localize/index.js": [
-    "/assets/index-aefa1402.js"
+    "/solidjs-portfolio/assets/index-aefa1402.js"
   ],
   "node_modules/.pnpm/date-fns@2.30.0/node_modules/date-fns/esm/locale/en-US/_lib/match/index.js": [
-    "/assets/index-aefa1402.js"
+    "/solidjs-portfolio/assets/index-aefa1402.js"
   ],
   "node_modules/.pnpm/date-fns@2.30.0/node_modules/date-fns/esm/locale/en-US/index.js": [
-    "/assets/index-aefa1402.js"
+    "/solidjs-portfolio/assets/index-aefa1402.js"
   ],
   "node_modules/.pnpm/date-fns@2.30.0/node_modules/date-fns/esm/toDate/index.js": [
-    "/assets/index-aefa1402.js"
+    "/solidjs-portfolio/assets/index-aefa1402.js"
   ],
   "node_modules/.pnpm/solid-js@1.7.7/node_modules/solid-js/dist/solid.js": [
   ],
   "node_modules/.pnpm/solid-js@1.7.7/node_modules/solid-js/web/dist/web.js": [
   ],
   "node_modules/.pnpm/solid-markdown@1.2.2_solid-js@1.7.7/node_modules/solid-markdown/dist/index.browser.jsx": [
-    "/assets/index.browser-374099f2.js"
+    "/solidjs-portfolio/assets/index.browser-fd208b68.js"
   ],
   "node_modules/.pnpm/solid-start@0.2.26_@solidjs+meta@0.28.5_@solidjs+router@0.8.2_solid-js@1.7.7_solid-start-node@0.2.26_vite@4.3.9/node_modules/solid-start/entry-client/StartClient.tsx": [
   ],
@@ -138,12 +138,12 @@
   "src/components/Logo.tsx": [
   ],
   "src/components/Markdown.tsx": [
-    "/assets/_slug_-ea7b48cc.js"
+    "/solidjs-portfolio/assets/_slug_-9a7fee59.js"
   ],
   "src/components/Navbar.tsx": [
   ],
   "src/components/NotFound.tsx": [
-    "/assets/NotFound-834c4594.js"
+    "/solidjs-portfolio/assets/NotFound-170c188d.js"
   ],
   "src/components/icons.tsx": [
   ],
@@ -156,21 +156,21 @@
   "src/root.tsx": [
   ],
   "src/routes/[...404].tsx": [
-    "/assets/_...404_-dd683dd8.js"
+    "/solidjs-portfolio/assets/_...404_-59e9f7b5.js"
   ],
   "src/routes/blog/[slug].tsx": [
-    "/assets/_slug_-ea7b48cc.js"
+    "/solidjs-portfolio/assets/_slug_-9a7fee59.js"
   ],
   "src/routes/blog/index.tsx": [
-    "/assets/index-cf208cf0.js"
+    "/solidjs-portfolio/assets/index-1856a7ea.js"
   ],
   "src/routes/index.tsx": [
-    "/assets/index-65420e54.js"
+    "/solidjs-portfolio/assets/index-f0e72cb2.js"
   ],
   "src/routes/resume.tsx": [
-    "/assets/resume-da32fe0a.js"
+    "/solidjs-portfolio/assets/resume-7d5fc4b0.js"
   ],
   "src/utils/formatters.ts": [
-    "/assets/formatters-53961027.js"
+    "/solidjs-portfolio/assets/formatters-cd066e53.js"
   ]
 }

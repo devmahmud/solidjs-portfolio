@@ -2,114 +2,114 @@
   "/*404": [
     {
       "type": "script",
-      "href": "/assets/_...404_-dd683dd8.js"
+      "href": "/solidjs-portfolio/assets/_...404_-59e9f7b5.js"
     },
     {
       "type": "script",
-      "href": "/assets/index-bfc1689a.js"
+      "href": "/solidjs-portfolio/assets/index-c1b636a8.js"
     },
     {
       "type": "style",
-      "href": "/assets/index-2635ec61.css"
+      "href": "/solidjs-portfolio/assets/index-2635ec61.css"
     },
     {
       "type": "script",
-      "href": "/assets/NotFound-834c4594.js"
+      "href": "/solidjs-portfolio/assets/NotFound-170c188d.js"
     }
   ],
   "/blog/:slug": [
     {
       "type": "script",
-      "href": "/assets/_slug_-ea7b48cc.js"
+      "href": "/solidjs-portfolio/assets/_slug_-9a7fee59.js"
     },
     {
       "type": "script",
-      "href": "/assets/index-bfc1689a.js"
+      "href": "/solidjs-portfolio/assets/index-c1b636a8.js"
     },
     {
       "type": "style",
-      "href": "/assets/index-2635ec61.css"
+      "href": "/solidjs-portfolio/assets/index-2635ec61.css"
     },
     {
       "type": "script",
-      "href": "/assets/index-aefa1402.js"
+      "href": "/solidjs-portfolio/assets/index-aefa1402.js"
     },
     {
       "type": "script",
-      "href": "/assets/NotFound-834c4594.js"
+      "href": "/solidjs-portfolio/assets/NotFound-170c188d.js"
     },
     {
       "type": "script",
-      "href": "/assets/index.browser-374099f2.js"
+      "href": "/solidjs-portfolio/assets/index.browser-fd208b68.js"
     }
   ],
   "/blog/": [
     {
       "type": "script",
-      "href": "/assets/index-cf208cf0.js"
+      "href": "/solidjs-portfolio/assets/index-1856a7ea.js"
     },
     {
       "type": "script",
-      "href": "/assets/index-bfc1689a.js"
+      "href": "/solidjs-portfolio/assets/index-c1b636a8.js"
     },
     {
       "type": "style",
-      "href": "/assets/index-2635ec61.css"
+      "href": "/solidjs-portfolio/assets/index-2635ec61.css"
     },
     {
       "type": "script",
-      "href": "/assets/index-aefa1402.js"
+      "href": "/solidjs-portfolio/assets/index-aefa1402.js"
     }
   ],
   "/": [
     {
       "type": "script",
-      "href": "/assets/index-65420e54.js"
+      "href": "/solidjs-portfolio/assets/index-f0e72cb2.js"
     },
     {
       "type": "script",
-      "href": "/assets/index-bfc1689a.js"
+      "href": "/solidjs-portfolio/assets/index-c1b636a8.js"
     },
     {
       "type": "style",
-      "href": "/assets/index-2635ec61.css"
+      "href": "/solidjs-portfolio/assets/index-2635ec61.css"
     },
     {
       "type": "script",
-      "href": "/assets/formatters-53961027.js"
+      "href": "/solidjs-portfolio/assets/formatters-cd066e53.js"
     }
   ],
   "/resume": [
     {
       "type": "script",
-      "href": "/assets/resume-da32fe0a.js"
+      "href": "/solidjs-portfolio/assets/resume-7d5fc4b0.js"
     },
     {
       "type": "script",
-      "href": "/assets/index-bfc1689a.js"
+      "href": "/solidjs-portfolio/assets/index-c1b636a8.js"
     },
     {
       "type": "style",
-      "href": "/assets/index-2635ec61.css"
+      "href": "/solidjs-portfolio/assets/index-2635ec61.css"
     },
     {
       "type": "script",
-      "href": "/assets/index.browser-374099f2.js"
+      "href": "/solidjs-portfolio/assets/index.browser-fd208b68.js"
     },
     {
       "type": "script",
-      "href": "/assets/formatters-53961027.js"
+      "href": "/solidjs-portfolio/assets/formatters-cd066e53.js"
     }
   ],
   "entry-client": [],
   "index.html": [
     {
       "type": "script",
-      "href": "/assets/index-bfc1689a.js"
+      "href": "/solidjs-portfolio/assets/index-c1b636a8.js"
     },
     {
       "type": "style",
-      "href": "/assets/index-2635ec61.css"
+      "href": "/solidjs-portfolio/assets/index-2635ec61.css"
     }
   ]
 }
