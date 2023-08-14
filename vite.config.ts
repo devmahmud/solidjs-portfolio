@@ -8,7 +8,7 @@ import { postsPlugin } from './plugins/posts';
 import { sitemapGenerator } from './plugins/sitemap';
 
 export default defineConfig({
-  base: '/', // base URL for the projects
+  base: '/solidjs-portfolio/', // base URL for the projects
   plugins: [
     solid({ ssr: false, extensions: ['.mdx', '.md'] }),
     eslint(),
